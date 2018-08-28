@@ -2,11 +2,11 @@
 
 ## Richard Powell's Code Guidelines
 
-1 Don’t sweat the small stuff.
-2 Compile cleanly at high warning levels.
-3 Have your changes code reviewed.
-4 Don’t write surprising code.
-5 Try to have your class/function do one thing, and one thing well.
+  1 Don’t sweat the small stuff.
+  2 Compile cleanly at high warning levels.
+  3 Have your changes code reviewed.
+  4 Don’t write surprising code.
+  5 Try to have your class/function do one thing, and one thing well.
 Correctness, simplicity, and clarity come first.
 No globals.
 Encapsulate and Hide information.
